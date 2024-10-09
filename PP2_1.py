@@ -28,5 +28,5 @@ def q2():
 #Do not alter the following code
 #Comment out the following code when running your tests
 
-q1()
-q2()
+#q1()
+#q2()
