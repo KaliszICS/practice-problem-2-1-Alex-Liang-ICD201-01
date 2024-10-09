@@ -1,4 +1,9 @@
-
+'''
+Lesson: If Statements
+Author: Alex Liang
+Date Created: October 9th, 2024
+Date Last Modified: October 9th, 2024
+'''
 
 def q1(): 
   #Write Assignment code here
